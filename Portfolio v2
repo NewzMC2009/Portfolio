@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Профиль</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td> <img width="250px" src="RobloxScreenShot20220520_104428547.png"> </td>
+            <td>
+                <h1>Денис Смирнов</h1>
+            </td>
+        </tr>
+    </table>
+    <hr>
+     <h3>Обо мне </h3>
+    <p>Стример без подписчеков на твиче.</p>
+        <p>Щас учусь програмировать</p>
+            <p>Помогу другим начать програмировать</p>
+    <hr>
+    <h3>Мой игры</h3>
+    <ul>
+        <li>Minecraft</li>
+        <li>Roblox</li>
+        <li>Genshin Impac</li>
+    </ul>
+    <h3>Во что я часто играю</h3>
+    <table cellspacing=10>
+        <tr>
+            <Td>Minecraft</Td>
+            <td>Roblox</td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Топ 6 предметов в школе</h3>
+    <table cellspacing=10>
+        <tr>
+            <td>Математика</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>ИЗО</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>VR</td>
+            <td>⭐⭐⭐⭐⭐</td>
+
+        </tr>
+        <tr>
+            <td>3D</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>Веб-програмирование</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>Ar</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    <hr> 
+           <h3>Мой хоби</h3>
+    <table>
+       
+        <tr>
+            <td><img width="500px" height="250px" src="RobloxScreenShot20220520_104428547.png"></td>
+            <td>
+            <h1>Стримлю по майнкрафту</h1>
+            <h1>В свободное время от стримов делаю профиль</h1>
+        </td>
+        </tr>
+    </table>
+         <p><a target="_blank"href=https://vk.com/le7elst2>Я Вконтакте</a></p>
+    <script src="index.js"></script>
+</body>
+
+</html>
